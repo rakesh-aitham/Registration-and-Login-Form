@@ -1,0 +1,1 @@
+Console.log(window.innerWidth + ‘x’ + window.innerHeight)
